@@ -4,7 +4,7 @@
 <div display: block>
 - 🌱 Seeking to learn more every day ...
   
-- 📫 How to reach me: liutais.dev@hotmail.com
+- 📫 How to reach me: liutais.dev@gmail.com
   
 - ✔ I have knowledge in front and back end ...
   
